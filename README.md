@@ -1,2 +1,2 @@
 # Practica-Portafolio-Web
-Practicando Programacion web creando un prototipo de portafolio
+Practicando HTML-CSS-JavaScrip creando un prototipo de portafolio
